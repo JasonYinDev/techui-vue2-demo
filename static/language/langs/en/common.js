@@ -1,0 +1,30 @@
+export default {
+  nav:{
+    item1: "DashboardA",
+    item2: "DashboardB",
+    item3: "DashboardC",
+    item4: "DashboardD",
+    item5: "DashboardE",
+    item6: "Mobile DashboardA",
+    item7: "Splicing Dashboard4x2",
+    item8: "Splicing DashboardSingle",
+    item9: "Map",
+    item10: "3D Map",
+    item11: "Warehouse Monitoring",
+    item12: "Pump Station",
+    item13: "panel3D Demo",
+    item14: "Decoration Demo",
+    item15: "Chart Color",
+    item16: "Conservancy",
+    item17: "Memo",
+    item18: "dataV Demo",
+    item19: "SVG Map",
+  },
+  dragTool: {
+    board1: "boardA",
+    board2: "boardB",
+    board3: "boardC",
+    board4: "boardD",
+    board5: "boardE",
+  }
+}

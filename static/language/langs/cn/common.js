@@ -1,0 +1,30 @@
+export default {
+  nav:{
+    item1:"大屏DemoA",
+    item2:"大屏DemoB",
+    item3:"大屏DemoC",
+    item4:"大屏DemoD",
+    item5:"大屏DemoE",
+    item6:"移动端大屏DemoA",
+    item7:"拼接屏4x2组合",
+    item8:"拼接屏4x2单屏",
+    item9:"地图组件",
+    item10:"3D地图组件",
+    item11:"仓库监控2.5D",
+    item12:"泵站运行监控",
+    item13:"panel3D Demo",
+    item14:"科技装饰",
+    item15:"图表配色工具",
+    item16: "水路设备监管",
+    item17: "Memo",
+    item18: "dataV Demo",
+    item19: "SVG坐标系",
+  },
+  dragTool:{
+    board1:"数据屏A",
+    board2:"数据屏B",
+    board3:"数据屏C",
+    board4:"数据屏D",
+    board5:"数据屏E",
+  }
+}
